@@ -1,4 +1,4 @@
-# Basename Modifiier for Statamic ![Statamic 2.0](https://img.shields.io/badge/statamic-1.0-lightgrey.svg?style=flat-square)
+# Basename Modifiier for Statamic ![Statamic v1](https://img.shields.io/badge/statamic-v1-lightgrey.svg?style=flat-square)
 
 ## Installation
 1. Download the zip file or clone repo into `/_add-ons/basename/`.
